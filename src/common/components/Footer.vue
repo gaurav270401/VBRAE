@@ -1,5 +1,5 @@
 <template>
-	<div class="fixed-bottom">
+	<div class="">
 		<div class="row border-1 border-top p-1 border-warning"></div>
 		<div class="row px-3 my-3 justify-content-center gap-4 gap-sm-0">
 			<div
